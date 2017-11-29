@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppBar with CollapsingToolbar and ImageView</string>
+    <string name="message">
+        "Pretty Cool! \n"
+        "Huh!"
+    </string>
+</resources>
